@@ -14,8 +14,6 @@ one_direction = {
 one_direction.each do |name, age|
   
 end
-
-
 #LEVEL 2 How can you get the average age of the members of 1D?
 
 
