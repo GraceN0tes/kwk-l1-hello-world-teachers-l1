@@ -46,3 +46,28 @@ end
   #end would output 15 and 40
   
   
+  
+Hash: dictionary-like collection of unique keys and values 
+hash_name = {key => value}
+puts hash_name
+
+OR 
+
+puts hash_name ["key"]
+
+name_game = {
+    "Annie" => "Awesome",
+    "Seamus" => "Sassy",
+    "Ivey" => "Intelligent",
+    "Katelyn" => "Kind",
+    "Kate" => "Karing",
+}
+
+}
+  
+  
+  
+  
+  
+  
+  
