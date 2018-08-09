@@ -1,7 +1,8 @@
-one_direction = {"Zayn" => 25,
-                "Liam" => 24,
-                "Harry" => 24,
-                "Niall" => 24
+one_direction = {
+  "Zayn" => 25,
+  "Liam" => 24,
+  "Harry" => 24,
+  "Niall" => 24
 }
 
 #LEVEL 1 
@@ -9,6 +10,8 @@ one_direction = {"Zayn" => 25,
 # Zayn is 25 years old 
 # Liam is 24 years old
 # etc
+
+
 
 #LEVEL 2 How can you get the average age of the members of 1D?
 
