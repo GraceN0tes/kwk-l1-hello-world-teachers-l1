@@ -38,6 +38,11 @@ cart = [40,10, 15, 12]
 cart.each do |x|
   if x>=15 
     new_array << x 
+    
+  end
+end
+  puts new_array
+  
   #end would output 15 and 40
   
   
