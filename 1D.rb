@@ -11,6 +11,9 @@ one_direction = {
 # Liam is 24 years old
 # etc
 
+one_direction.each do |name, age|
+  
+end
 
 
 #LEVEL 2 How can you get the average age of the members of 1D?
