@@ -63,7 +63,8 @@ name_game = {
     "Kate" => "Karing",
 }
 
-}
+Arrays are a list 
+Hashes are a collection of pairs of info (key+value)
   
   
   
