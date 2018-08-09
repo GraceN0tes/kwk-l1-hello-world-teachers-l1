@@ -29,3 +29,15 @@ puts new_array
 #this would output [1,2,3,4,5]
 adds 1 to each value in the array
 
+
+
+
+CONDITIONAL ARRAYS: if, elsif, else
+new_array=[]
+cart = [40,10, 15, 12]
+cart.each do |x|
+  if x>=15 
+    new_array << x 
+  #end would output 15 and 40
+  
+  
