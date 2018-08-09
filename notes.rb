@@ -9,3 +9,10 @@ end
 #this outputs 1, 2, 3, 4
 
 new_array = []
+numbesr = [1, 2, 3, 4]
+numbers.each do |x|
+  new_array << 5
+end
+puts new_array
+
+#this would output [1,2,3,4,5]
