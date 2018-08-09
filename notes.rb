@@ -16,3 +16,16 @@ end
 puts new_array
 
 #this would output [1,2,3,4,5]
+
+
+new_array = []
+numbesr = [1, 2, 3, 4]
+numbers.each do |x|
+  y = x+1
+  new_array << y
+end
+puts new_array
+
+#this would output [1,2,3,4,5]
+adds 1 to each value in the array
+
